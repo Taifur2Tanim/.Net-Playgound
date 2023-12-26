@@ -1,0 +1,32 @@
+﻿
+@{
+    ViewBag.Title = "List";
+}
+
+<h2>List</h2>
+<span>@ViewBag.a + @ViewBag.b = @ViewBag.c</span>
+<table class="table table-bordered">
+    <tr>
+        <td>Name</td>
+        <td>Id</td>
+        <td>Date Of birth</td>
+    </tr>
+    @foreach (string n in ViewBag.Names)
+    {
+        <tr>
+            <td>@n</td>
+        </tr>
+    }
+    <!--
+    <tr>
+        <td>Tanim</td>
+        <td>23434</td>
+        <td>12-11-23</td>
+    </tr>
+    <tr>
+        <td>Taifur</td>
+        <td>3434</td>
+        <td>12-11-23</td>
+    </tr>
+     -->
+</table>
