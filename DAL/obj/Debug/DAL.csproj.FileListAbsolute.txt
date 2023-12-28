@@ -1,0 +1,14 @@
+T:\11th semester\project\.Net-Playgound\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+T:\11th semester\project\.Net-Playgound\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+T:\11th semester\project\.Net-Playgound\DAL\bin\Debug\DAL.dll.config
+T:\11th semester\project\.Net-Playgound\DAL\bin\Debug\DAL.dll
+T:\11th semester\project\.Net-Playgound\DAL\bin\Debug\DAL.pdb
+T:\11th semester\project\.Net-Playgound\DAL\bin\Debug\EntityFramework.dll
+T:\11th semester\project\.Net-Playgound\DAL\bin\Debug\EntityFramework.SqlServer.dll
+T:\11th semester\project\.Net-Playgound\DAL\bin\Debug\EntityFramework.xml
+T:\11th semester\project\.Net-Playgound\DAL\bin\Debug\EntityFramework.SqlServer.xml
+T:\11th semester\project\.Net-Playgound\DAL\obj\Debug\DAL.csproj.CopyComplete
+T:\11th semester\project\.Net-Playgound\DAL\obj\Debug\DAL.dll
+T:\11th semester\project\.Net-Playgound\DAL\obj\Debug\DAL.pdb
+T:\11th semester\project\.Net-Playgound\DAL\obj\Debug\DAL.Migrations.InitDb.resources
+T:\11th semester\project\.Net-Playgound\DAL\obj\Debug\DAL.csproj.GenerateResource.cache

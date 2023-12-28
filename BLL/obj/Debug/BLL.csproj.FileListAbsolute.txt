@@ -1,0 +1,2 @@
+T:\11th semester\project\.Net-Playgound\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+T:\11th semester\project\.Net-Playgound\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
